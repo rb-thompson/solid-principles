@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "name": "GeForce RTX 3050",
+            "price": 205.0,
+            "quantity": 2
+        },
+        {
+            "name": "RTX 3090",
+            "price": 1700.0,
+            "quantity": 1
+        },
+        {
+            "name": "NVIDIA DGX Spark",
+            "price": 4000.0,
+            "quantity": 1
+        }
+    ],
+    "total": 6110.0
+}
